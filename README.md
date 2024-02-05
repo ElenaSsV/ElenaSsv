@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on java-kidzone - app to find fun places for kids near you <br>💬 You can contact me via email: e.semseeva@yandex.ru or Telegram: Elena_Semseeva<br>
+Hi! 👋  I'm Elena, Java Developer from Russia
+<br>💬 You can contact me via email: e.semseeva@yandex.ru or Telegram: Elena_Semseeva<br>
 
 
 # 💻 Tech Stack:
